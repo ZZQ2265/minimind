@@ -48,11 +48,11 @@
 
 | 序号 | 内容 | 核对 |
 |------|------|------|
-| 0.1 | 阅读 `README.md` 前言、项目目标、模型列表与更新日志 | [ ] |
-| 0.2 | 安装依赖：`pip install -r requirements.txt -i https://mirrors.aliyun.com/pypi/simple` | [ ] |
-| 0.3 | 验证 CUDA：运行 `python -c "import torch; print(torch.cuda.is_available())"` | [ ] |
-| 0.4 | 理解目录结构（见下方表格） | [ ] |
-| 0.5 | 阅读 `dataset/dataset.md`，知悉数据集下载地址与放置位置 | [ ] |
+| 0.1 | 阅读 `README.md` 前言、项目目标、模型列表与更新日志 | [x] |
+| 0.2 | 安装依赖：`pip install -r requirements.txt -i https://mirrors.aliyun.com/pypi/simple` | [x] |
+| 0.3 | 验证 CUDA：运行 `python -c "import torch; print(torch.cuda.is_available())"` | [x] |
+| 0.4 | 理解目录结构（见下方表格） | [x] |
+| 0.5 | 阅读 `dataset/dataset.md`，知悉数据集下载地址与放置位置 | [x] |
 
 ### 目录结构说明
 
